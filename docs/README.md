@@ -8,7 +8,7 @@ Instructions:
 
 1) Click on "Windows Release" under the "Releases" tab on the GitHub page.
 2) Click on the release ending in ".zip" to begin downloading the program.
-3) Once the ZIP is downloaded onto your computer, right-click on the file to un-zip it. If you are on Windows, double-click the executable file titled "main_v1.0.py".
+3) Once the ZIP is downloaded onto your computer, right-click on the file to un-zip it. If you are on Windows, double-click the executable file titled "main_v1.1.exe".
 4) The program will prompt you to select a file. Navigate to your input data file CSV of the birthdays. You can double-click on the input data file to select it.
 
 Almost immedietly after selecting the input data file, the program will end. The program will have outputted a file in the same folder as the executable a file called "OUTPUT_CalendarEvents.csv". This CSV file contains the events to import into your Google Calendar. The instructions to import a CSV file into Google Calendar [can be found here](https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop).
