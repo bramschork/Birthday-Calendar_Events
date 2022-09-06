@@ -6,8 +6,6 @@ Date: 05-Sep-2022
 Version: v1.1
 
 Copyright (C) 2022 Bram Schork - All Rights Reserved
- * You may not use, distribute or modify this code 
- * within the explicit written consent of Bram Schork.
  * For questions contact bram@bramschork.com
 '''
  
