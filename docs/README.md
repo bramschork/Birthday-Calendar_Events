@@ -4,7 +4,7 @@ This program will create a file you can import into your Google Calendar that co
 
 Instructions:
 
-**Please download your students birthdays first. They must be in the strict format of "Last, First|Form|Birthday(mm-dd-yy)". Please do not include "Preffered Name". The program relies on strict accordance to this input formatting. Ensure Excel does not auto-format your dates to a different format. An example of the input format can be found in "docs/example_data.csv" in the folder you will download below. Please no extra lines or formatting in the document.**
+**Please download your students birthdays first. They must be in the strict format of "Last, First|Form|Birthday(mm-dd-yy)". Please do not include "Preferred Name". The program relies on strict accordance to this input formatting. Ensure Excel does not auto-format your dates to a different format. An example of the input format can be found in "docs/example_data.csv" in the folder you will download below. Please no extra lines or formatting in the document.**
 
 1) Click on "Windows Release" under the "Releases" tab on the GitHub page.
 2) Click on the release ending in ".zip" to begin downloading the program.
