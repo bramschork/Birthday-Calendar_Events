@@ -30,8 +30,9 @@ router.get("/", async (ctx) => {
 router.post("/upload-single-file", upload.single("file"), (ctx) => {
   ctx.body = {
     message: `file ${ctx.request.file.filename} has saved on the server`,
-    url: `http://142.93.129.243:3001/upload-single-fil:${PORT}/${ctx.request.file.originalname}`,
+    url: `142.93.129.243:${PORT}/${ctx.request.file.originalname}`,
   };
+  console.log('File saved on server.')
 });
 
 app.use(cors());
